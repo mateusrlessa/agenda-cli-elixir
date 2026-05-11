@@ -35,7 +35,7 @@ Pré-requisitos
 
 Passos
 ```powershell
-cd C:\Users\Matheus\Downloads\agenda-cli-elixir-master\agenda-cli-elixir-master
+
 mix deps.get
 mix compile
 mix run --no-start -e "AgendaCli.main([])"
