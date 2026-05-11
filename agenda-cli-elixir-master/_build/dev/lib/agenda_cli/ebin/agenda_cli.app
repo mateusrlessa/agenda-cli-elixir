@@ -1,0 +1,1 @@
+{application,agenda_cli,[{modules,['Elixir.AgendaCli','Elixir.AgendaCli.Application','Elixir.AgendaCli.Contacts','Elixir.AgendaCli.Store']},{optional_applications,[]},{applications,[kernel,stdlib,elixir,logger,jason]},{description,"agenda_cli"},{registered,[]},{vsn,"0.1.0"},{mod,{'Elixir.AgendaCli.Application',[]}}]}.
